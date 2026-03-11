@@ -1,0 +1,18 @@
+Verschiedenen Bosse
+
+- Stagger bei wie viel die gestaggert werden
+- Angriff
+  ->magisch
+  ->usw
+  ->Durchschnittswert bilden
+- lebenspunkte
+- Name
+- Name der Waffe
+- Stagger wie lange die brauchen um den stagger abzubauen
+- Angriffsgeschwindigkeit
+- Geschwindigkeit
+- Ort
+- Loot
+- Runenloot
+- Anzahl der verschiedenen Attacken
+- Damage resistance
